@@ -13,3 +13,5 @@
 .mtj.tmp/
 
 e.txt
+#폴더/ 깃을 무시한다는 것(/)
+ignore/
